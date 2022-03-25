@@ -14,11 +14,11 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">OrigamiBot!</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Up coming{' '}
           <code className={styles.code}>pages/index.tsx</code>
         </p>
 
@@ -61,7 +61,7 @@ const Home: NextPage = () => {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+            <h2>codeflare inc</h2>
           </span>
         </a>
       </footer>
